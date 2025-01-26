@@ -1,1 +1,1 @@
-# nn_for_maxcut
+# qnn_for_maxcut
